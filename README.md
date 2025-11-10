@@ -1,5 +1,3 @@
-# Money_Creation
-
 # Money Creation: Federal Reserve Notes and IOUs
 
 **Date:** 2025-11-10
