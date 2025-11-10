@@ -13,7 +13,7 @@ This document captures a full, organized dialogue exploring whether Federal Rese
 ## 1. Are Federal Reserve Notes IOUs?
 
 **Question:**  
-> Aren't Federal Reserve notes technically the same thing as IOUs from the government?
+> Are Federal Reserve notes, technically the same thing as an IOU from the government?
 
 **Answer:**  
 Yes — that’s largely correct in principle.
